@@ -12,3 +12,4 @@ For now, no need to be confused, just accept this. So far, I have just used the 
 
 > - [Estimators](https://www.tensorflow.org/programmers_guide/estimators), which represent a complete model. The Estimator API provides methods to train the model, to judge the model's accuracy, and to generate predictions.
 
+Check [here](https://www.tensorflow.org/programmers_guide/) for a total view of programmer's guide.
