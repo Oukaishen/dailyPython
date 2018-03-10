@@ -2,6 +2,11 @@
 
 kaishen, 10 Mar, 2018
 
+There are mainly two parts in Python API, namely:
+
+* set up the computational graph
+* run the computational graph
+
 ## Set up the Computational Graph
 
 ```python
