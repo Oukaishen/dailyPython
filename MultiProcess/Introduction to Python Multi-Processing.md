@@ -34,7 +34,8 @@ I am the child process 10099 and my parent is 10098
 
 `fork()` is Unix/Lnix based. Python supports cross platform multi-processing using `multiprocessing`package.
 
-*  `start()` ignites the process
+* `Process` class to create a process object 
+* `start()` ignites the process
 * `join()` waits this process finishes before it continues
 
 ### Code Snippet
