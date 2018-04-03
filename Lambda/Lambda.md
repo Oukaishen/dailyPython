@@ -19,7 +19,7 @@ is equivalent to
 lambda x:x*x
 ```
 
-###Arguments 
+### Arguments
 
 With lambda expression, you can have no argument, 1 argument, 2 arguments, *args, and even **kargs.
 
