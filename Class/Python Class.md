@@ -60,3 +60,8 @@ The result is shown here
 <__main__.MyClass object at 0x104106470>
 ```
 
+
+
+## Calling base class's method from child class
+
+Can see this [link](https://stackoverflow.com/questions/4747397/calling-base-class-method-in-python?rq=1)
