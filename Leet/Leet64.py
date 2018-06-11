@@ -25,7 +25,8 @@ class Solution:
 
         # initialize a python list that has one row
         dp = [inf]*N
-        dp[0] = 0;
+        dp[0] = 0
+        
         for i in range(M):
         	for j in range(N):
         		if j == 0:
